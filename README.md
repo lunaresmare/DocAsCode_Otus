@@ -1,5 +1,0 @@
-# emailCheck
-
-lala
-z
-asdfghjk
